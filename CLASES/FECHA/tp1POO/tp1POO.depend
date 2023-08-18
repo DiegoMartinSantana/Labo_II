@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1691890350 source:c:\users\diego\desktop\utn\laboratorio ii\tp1_poo\tp1poo\main.cpp
+	<iostream>
+	<string>
+	"Fecha.h"
+
+1691890357 source:c:\users\diego\desktop\utn\laboratorio ii\tp1_poo\tp1poo\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1691882806 c:\users\diego\desktop\utn\laboratorio ii\tp1_poo\tp1poo\include\fecha.h
+	<string>
+
