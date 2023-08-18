@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1692398610 source:c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\main.cpp
+	<iostream>
+	<cstring>
+	<VASO.h>
+	<BIDONES.h>
+
+1692368957 source:c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\src\bidon.cpp
+	<iostream>
+	"BIDON.h"
+
+1692368575 c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\bidon.h
+
+1692398647 source:c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\src\vaso.cpp
+	"VASO.h"
+	<iostream>
+
+1692397031 c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\include\vaso.h
+	<cstring>
+
+1692400785 c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\include\bidones.h
+	<cstring>
+
+1692400735 source:c:\users\diego\desktop\utn\laboratorio ii\1-3conysinpoo\ejer3batidosconpoo\src\bidones.cpp
+	"BIDONES.h"
+	<iostream>
+	<cstring>
+
