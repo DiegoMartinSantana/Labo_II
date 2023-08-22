@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1692739887 source:c:\users\diego\desktop\utn\programacion ii\clases\fechaact\main.cpp
+	<iostream>
+	"FechaAct.h"
+	"Horario.h"
+	"FechaHorario.h"
+	"Reunion.h"
+
+1692718684 source:c:\users\diego\desktop\utn\programacion ii\clases\fechaact\src\fechaact.cpp
+	"FechaAct.h"
+	<iostream>
+	<ctime>
+	<string>
+
+1692715109 c:\users\diego\desktop\utn\programacion ii\clases\fechaact\include\fechaact.h
+	<string>
+
+1692725901 c:\users\diego\desktop\utn\programacion ii\clases\fechaact\include\horario.h
+	<string>
+
+1692725886 source:c:\users\diego\desktop\utn\programacion ii\clases\fechaact\src\horario.cpp
+	"Horario.h"
+	<iostream>
+	<string>
+	<ctime>
+
+1692727972 source:c:\users\diego\desktop\utn\programacion ii\clases\fechaact\src\fechahorario.cpp
+	"FechaHorario.h"
+	"FechaAct.h"
+	"Horario.h"
+	<iostream>
+
+1692731903 c:\users\diego\desktop\utn\programacion ii\clases\fechaact\include\fechahorario.h
+	<string>
+	"FechaAct.h"
+	"Horario.h"
+
+1692739699 source:c:\users\diego\desktop\utn\programacion ii\clases\fechaact\src\reunion.cpp
+	"Reunion.h"
+	"FechaHorario.h"
+	"Persona.h"
+	<iostream>
+
+1692739721 c:\users\diego\desktop\utn\programacion ii\clases\fechaact\include\reunion.h
+	"FechaHorario.h"
+	"Persona.h"
+	<string>
+
+1692731911 c:\users\diego\desktop\utn\programacion ii\clases\fechaact\include\persona.h
+	<string>
+
+1692734805 source:c:\users\diego\desktop\utn\programacion ii\clases\fechaact\src\persona.cpp
+	"Persona.h"
+	<string>
+	<iostream>
+
